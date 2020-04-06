@@ -1,8 +1,8 @@
 ## WiTPy: An Opensource Toolkit to Analyse Wikipedia Talk Pages
 
-You can use the [editor on GitHub](https://github.com/witpy/witpy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WiTpy is an open-source toolkit that is useful in parsing and analyzing the information present in the talk page of any Wikipedia, we are providing users with comments of users in a tree-like structure stored in JSON format, this library also helps in easy analysis of the extracted data.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### How to use
 
