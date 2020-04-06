@@ -11,5 +11,6 @@ Below is the small code snippet indicating the usage of this toolkit.
 ```markdown
 import witpy as wp
 wp.downlaod("Digital Library")
+wp.process("Digital Library")
 wp.getAllauthors("Digital Library")
 ```
